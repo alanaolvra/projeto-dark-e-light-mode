@@ -1,3 +1,2 @@
 # Projeto Dark mode e Light mode
-
-### Exercitando D.O.M. com JavaScript
+Exercitando D.O.M. com JavaScript
